@@ -6,6 +6,9 @@ int main() {
     unsigned int base;
     unsigned int altura;
 
+    cin>>base;
+    cin>>altura;
+
     cout<<(base*altura)/2;
 
     return 0;
