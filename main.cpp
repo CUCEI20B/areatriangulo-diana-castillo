@@ -6,7 +6,7 @@ int main() {
     unsigned int base;
     unsigned int altura;
 
-    cout <<(base*altura)/2;
+    cout<<(base*altura)/2;
 
     return 0;
 }
